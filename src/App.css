@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.filterStatus>select{
+  margin: 12px 0 12px 0;
+  width: 125px;
+  height: 25px;
+}
+.filterSearch{
+  width: 200px;
+  height: 20px;
+  font-size: 12px;
+  padding: 4px 5px;
+}
+.modalAdd{
+    width: 160px;
+    height: 30px;
+    border-style: none;
+    outline: none;
+    border: 1px solid white;
+    color: white;
+    cursor: pointer;
+    background: #23a0dd;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+.modalAdd:hover{
+    border: 1px solid #23a0dd;
+    color: #23a0dd;
+    background: white;
+}
